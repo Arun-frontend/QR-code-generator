@@ -21,3 +21,13 @@ You can view a live demo of the project [[here](https://famous-conkies-23b360.ne
 - Custom Styling: The appearance of the webpage is styled using CSS to ensure a polished and organized look with proper spacing and fonts.
 - API Integration: QR codes are generated using an API provided by qrserver.com, ensuring reliable and efficient code generation.
 
+# How to Use
+- Clone the repository to your local machine.
+- Open the index.html file in your web browser.
+- Enter your text or URL into the input field.
+- Click the "Generate QR Code" button to create your QR code.
+- The generated QR code will be displayed on the webpage.
+
+- 
+# Credits
+This project utilizes the QR code generation API provided by qrserver.com.
