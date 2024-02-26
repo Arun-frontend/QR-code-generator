@@ -1,6 +1,6 @@
 # QR Code Generator
 
-This project is a clone of the Facebook login page implemented using HTML, CSS, and JavaScript. It replicates the layout and functionality of the Facebook login page, allowing users to enter their credentials (username and password) and providing basic client-side validation for input fields. The project aims to demonstrate proficiency in front-end web development technologies and serves as a learning exercise for building user authentication interfaces.
+This project is a simple and user-friendly tool for generating QR codes quickly. It allows users to input text or URLs and generates a corresponding QR code instantly. The generated QR code can be used for various purposes such as sharing website links, contact information, or other data in a visually compact format.
 
 ## Technologies used
 
